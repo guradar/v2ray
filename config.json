@@ -1,8 +1,8 @@
 {
     "log": {
         "loglevel": "warning",
-        "access": "\v2ray\access.log",
-        "error": "\v2ray\error.log"
+        "access": "/v2ray/access.log",
+        "error": "/v2ray/error.log"
     },
     "inbound": {
         "port": 16858,

@@ -15,4 +15,4 @@ unzip v2ray.zip
 rm -rf v2ray.zip
 chmod +x v2ray v2ctl
 sed -i "s/your_uuid/$UUID/g" config.json
-./v2ray
+#./v2ray
